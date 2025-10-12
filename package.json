@@ -1,0 +1,26 @@
+{
+  "name": "gh24v7x118_nhuan_backend1",
+  "version": "1.0.0",
+  "description": "Backend1_Studing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GH24V7X118_Huynh Gia Nhuan",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mongodb": "^6.20.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.37.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^16.4.0",
+    "nodemon": "^3.1.10",
+    "prettier": "^3.6.2",
+    "typescript-eslint": "^8.46.0"
+  }
+}
